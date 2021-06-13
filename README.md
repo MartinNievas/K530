@@ -1,5 +1,4 @@
-# K530
-K530 Firmware Reverse Engineering
+# K530 Firmware Reverse Engineering
 
 This project is to reverse engineer the Redragon Draconic / K530 to get QMK running on it.
 Use this information at your own risk. I'm not liable if you break something.
