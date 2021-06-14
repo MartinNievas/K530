@@ -35,6 +35,27 @@ Use this information at your own risk. I'm not liable if you break something.
     * [PAR2801QN-GHVC](https://en.sziton.com/wp-content/uploads/datasheets/module/PAR2801-Q32P-datasheet-v1.2.pdf)
 * ~LED driver~ Charging Chip - EVision [VSPW01](http://www.evision.net.cn/include/upload/kind/file/20190413/20190413175237_5340.pdf)
 
+## Conection betwen Chips (SPI?)
+| VS11K09A-1 | PAR2801QN-GHVC|
+|---|---|
+|P0.4 (21) | GPIO2 (30)|
+|P0.2 (19) | GPIO3 (29)|
+|P0.5 (22) | GPIO4 (28)|
+|P0.1 (18) | GPIO6 (26)|
+|P0.3 (20) | GPIO5 (27)|
+
+### Pins header
+|pin| VS11K09A-1 | PAR2801QN-GHVC|
+|---|---|---|
+|J5 | P0.4 (21) | GPIO2 (30)|
+|J7 | P0.2 (19) | GPIO3 (29)|
+|J3 | P0.5 (22) | GPIO4 (28)|
+
+|pin| VS11K09A-1 | PAR2801QN-GHVC|
+|---|---|---|
+|J4 | P0.1 (18) | GPIO6 (26)|
+|J6 | P0.3 (20) | GPIO5 (27)|
+
 ## LEDs
 
 They seem to be driven by GPIO and transistors.
