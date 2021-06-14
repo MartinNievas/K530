@@ -16,10 +16,10 @@ Use this information at your own risk. I'm not liable if you break something.
 
 - [x] Identify MCU `VS11K09A-1` / `Sonix SN32F248BF`
 - [X] Find data sheet [VS11K09A-1](http://evision.net.cn/include/upload/kind/file/20190413/20190413174647_5965.pdf) / [Sonix SN32F248B](http://www.sonix.com.tw/files/1/9BB2674D32FB0D70E050007F01007532)
+- [X] Get origional firmware
+- [ ] Ability to flash firmware
 - [ ] Find SDK and dev tools
 - [ ] Get SWD working
-- [ ] Ability to flash firmware
-- [ ] Get origional firmware
 - [ ] Enable SWD in current firmware
 - [ ] Get QMK firmware working
     - [ ] Basic keyboard functionality [Build Tools](https://docs.qmk.fm/#/getting_started_build_tools)
@@ -68,7 +68,7 @@ Appears to be an another ARM Cortex M0 MCU with UART and GPIO.
 - [ ] SWD debugging
 - [ ] Pin map to main MCU
 
-## Extract default dk63 firmware.hex
+## Extract origional firmware.hex
 1. Download [Resource Hacker](http://www.angusj.com/resourcehacker/) (Not sure of a mac or linux variant)
 2. Download [Firmware Update tool](https://kmovetech.com/DIERYA%20&%20Kemove%20Wired%20mode%20firmware%20update.rar)
 3. Extract the Firmware .rar and open the .exe in RH
