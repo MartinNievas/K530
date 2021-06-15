@@ -17,7 +17,7 @@ Use this information at your own risk. I'm not liable if you break something.
 - [x] Identify MCU `VS11K09A-1` / `Sonix SN32F248BF`
 - [X] Find data sheet [VS11K09A-1](http://evision.net.cn/include/upload/kind/file/20190413/20190413174647_5965.pdf) / [Sonix SN32F248B](http://www.sonix.com.tw/files/1/9BB2674D32FB0D70E050007F01007532)
 - [X] Get origional firmware
-- [ ] Ability to flash firmware
+- [X] Ability to flash firmware
 - [ ] Find SDK and dev tools
 - [ ] Get SWD working
 - [ ] Enable SWD in current firmware
