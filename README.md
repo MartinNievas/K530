@@ -91,3 +91,4 @@ Appears to be an another ARM Cortex M0 MCU with UART and GPIO.
 - https://mrexodia.github.io/reversing/2019/09/28/Analyzing-keyboard-firmware-part-3
 
 - [Reddit Post](https://www.reddit.com/r/embedded/comments/e4iriu/keyboard_mcu_help/)
+- https://www.youtube.com/watch?v=2MHtLEiXaXg
