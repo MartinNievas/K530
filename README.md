@@ -93,5 +93,6 @@ Appears to be an another ARM Cortex M0 MCU with UART and GPIO.
 - [Reddit Post](https://www.reddit.com/r/embedded/comments/e4iriu/keyboard_mcu_help/)
 
 ### Already working with OpenRGB and [SonixQMK](https://github.com/SonixQMK/qmk_firmware)
+- Bluetooth dosn't work in SonixQMK yet, only wired
 - k530 is [supported](https://gitlab.com/CalcProgrammer1/OpenRGB/-/issues/1524) (Check the issue for more info)
 - https://www.youtube.com/watch?v=2MHtLEiXaXg
