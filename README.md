@@ -65,6 +65,7 @@ They seem to be driven by GPIO and transistors.
 ## Bluetooth
 
 Appears to be an another ARM Cortex M0 MCU with UART and GPIO.
+- [Dev Board?](https://www.wpgdadatong.com/cn/solution/detail?PID=7006)
 - [ ] SWD debugging
 - [ ] Pin map to main MCU
 
